@@ -1,0 +1,26 @@
+﻿[
+  {
+    "id": "sach-1",
+    "type": "book",
+    "title": "Sách mẫu 1: Chuyển đổi số trong học tập và tuyên truyền",
+    "category": "Chuyển đổi số",
+    "description": "Nội dung giới thiệu tổng quan về chuyển đổi số.",
+    "url": "https://example.com/sach-1.pdf"
+  },
+  {
+    "id": "giao-an-1",
+    "type": "lesson",
+    "title": "Giáo án mẫu 1: Nhận thức chính trị trong thời kỳ số",
+    "category": "Giáo án",
+    "description": "Khung bài giảng và câu hỏi thảo luận.",
+    "url": "https://example.com/giao-an-1.pdf"
+  },
+  {
+    "id": "tham-khao-1",
+    "type": "reference",
+    "title": "Tài liệu tham khảo mẫu 1: Kỹ năng kiểm chứng thông tin",
+    "category": "Tài liệu tham khảo",
+    "description": "Hướng dẫn nhận diện thông tin trên môi trường số.",
+    "url": "https://example.com/tham-khao-1.pdf"
+  }
+]

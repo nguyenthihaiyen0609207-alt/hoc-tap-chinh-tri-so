@@ -1,0 +1,19 @@
+﻿[
+  {
+    "id": "de-01",
+    "title": "Bài kiểm tra nhận thức chính trị – Đề 01",
+    "questions": [
+      {
+        "question": "Chuyển đổi số trong học tập mang lại lợi ích nổi bật nào?",
+        "options": [
+          "Khó tiếp cận tài liệu hơn",
+          "Dễ tra cứu, học mọi lúc và tăng tính tương tác",
+          "Làm mất dữ liệu học tập",
+          "Chỉ dùng được trên 1 máy tính"
+        ],
+        "answer": 1,
+        "explanation": "Nền tảng số giúp lưu trữ tập trung, tra cứu nhanh và học tập linh hoạt."
+      }
+    ]
+  }
+]
